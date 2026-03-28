@@ -10,11 +10,11 @@
 
 [my itch](zsfer.itch.io)
 
-[more portfolio](files/portfolio.pdf)
+[more portfolio](profile/files/portfolio.pdf)
 
 ### :: if u need my details
 
-[my resume](files/resume.pdf)
+[my resume](profile/files/resume.pdf)
 or contact me thru seiferalbacete@gmail.com
 
 ### :: catch me making games here
